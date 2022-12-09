@@ -1,0 +1,4 @@
+scrapy
+slugify
+bs4
+mysql-connector-python
